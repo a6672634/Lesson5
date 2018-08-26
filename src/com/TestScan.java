@@ -6,7 +6,7 @@ public class TestScan {
     public static void main(String[] args) {
 
 
-/*     Задание 1
+/*     Задание 1.
         Scanner scanner = new Scanner(System.in);
         int a;
         int b;
